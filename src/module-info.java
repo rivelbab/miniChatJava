@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rivelson
+ *
+ */
+module miniChatJava {
+}
